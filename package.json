@@ -12,5 +12,6 @@
     "search"
   ],
   "author": "Chun Fan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
